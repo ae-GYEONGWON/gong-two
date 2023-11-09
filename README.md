@@ -1,4 +1,4 @@
-# gonggu
+# gong-two
 크래프톤 정글 0주차 프로젝트(봉투를 공구하기 위한 웹페이지)
 
 - python의 flask 통해 SSR을 구현.
